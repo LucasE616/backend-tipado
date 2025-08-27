@@ -15,3 +15,4 @@ Este projeto demonstra como estruturar um backend consistente em **Node.js** usa
 - @fastify/swagger-ui → interface interativa para testar APIs  
 
 ---
+
